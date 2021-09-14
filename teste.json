@@ -4,11 +4,5 @@
 		"email": "cliente1@teste.com",
 		"number1": "5414165",
 		"number2": "8468496"
-	},
-	{
-		"name": "Cliente 2",
-		"email": "cliente2@teste.com",
-		"number1": "5761685",
-		"number2": "8782556"
-	},
+	}
 ]
