@@ -1,6 +1,3 @@
-[
-    {
-        "status": "true",
-        "mensage": "Número de patrocínio validado!"
-    }
-] 
+{
+        "status": true
+}

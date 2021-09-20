@@ -1,6 +1,4 @@
-[
-    {
-        "status": "true",
-        "mensage": "Serial Number validado!"
-    }
-] 
+{
+    "status": false,
+    "detail": "Serial Number invalidado!"
+}
