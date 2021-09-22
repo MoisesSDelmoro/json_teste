@@ -1,6 +1,7 @@
 {
-                "user_name": "user@teste.com",
-                "client": "Escola 1", 
-                "serial_number": "09S29QAR400263",
-                "asset_id": "382687"  
+	"user_name": "user@teste.com",
+	"customer_domain": "gedu.demo.bedu.tech",
+	"serial_number": "1C8891ZM900103D",
+	"asset_id": "382687",
+	"batch": "1"
 }
